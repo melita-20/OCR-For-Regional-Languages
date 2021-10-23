@@ -57,7 +57,6 @@ prompt-toolkit==3.0.20
 psycopg2==2.9.1
 Pygments==2.10.0
 pyparsing==2.4.7
-pytesseract==0.3.8
 python-bidi==0.4.2
 Python-Code==1.0.0
 python-dateutil==2.8.2
